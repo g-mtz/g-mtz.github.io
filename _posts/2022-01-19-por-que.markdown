@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Por qué"
+date: 	2022-01-19 02:33:20 -0300
+categories: update
+---
+Durante los minutos en los que armé esto, estaba pensando qué tipo de cosas pondría acá.
+
+La verdad que no tengo ni idea.
+
+Probablemente haga cosas que me parece que aportan al foro.
